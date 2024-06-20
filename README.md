@@ -2,7 +2,7 @@ Boas vindas ao meu perfil 💙💙
 
 Meu nome é ingrid azevedo
 
-Estou estudando na Alura
+Estou estudando na [Alura](https//wwww.alura.com.br)
 
 Estou me desenvolvendo na linguagem JavaScript
 
